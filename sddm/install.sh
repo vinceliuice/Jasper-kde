@@ -4,6 +4,8 @@ ROOT_UID=0
 THEME_DIR="/usr/share/sddm/themes"
 REO_DIR="$(cd $(dirname $0) && pwd)"
 
+THEME_NAME=Nephrite
+
 MAX_DELAY=20                                  # max delay for user to enter root password
 
 #COLORS
@@ -36,14 +38,14 @@ prompt () {
 }
 
 install () {
-  prompt -i "\n * Install Colloid${color} in ${THEME_DIR}... "
-  rm -rf "${THEME_DIR}/Colloid${color}"
-  cp -r "${REO_DIR}/Colloid" "${THEME_DIR}/Colloid${color}"
-  cp -r "${REO_DIR}/images/Colloid${color}.png" "${THEME_DIR}/Colloid${color}/background.png"
-  cp -r "${REO_DIR}/images/Preview${color}.png" "${THEME_DIR}/Colloid${color}/Preview.png"
-  sed -i "/\Name=/s/Colloid/Colloid${color}/" "${THEME_DIR}/Colloid${color}/metadata.desktop"
-  sed -i "/\Theme-Id=/s/Colloid/Colloid${color}/" "${THEME_DIR}/Colloid${color}/metadata.desktop"
-  sed -i "s/Colloid/Colloid${color}/g" "${THEME_DIR}/Colloid${color}/Main.qml"
+  prompt -i "\n * Install ${THEME_NAME}${color} in ${THEME_DIR}... "
+  rm -rf "${THEME_DIR}/${THEME_NAME}${color}"
+  cp -r "${REO_DIR}/${THEME_NAME}" "${THEME_DIR}/${THEME_NAME}${color}"
+  cp -r "${REO_DIR}/images/background${color}.png" "${THEME_DIR}/${THEME_NAME}${color}/background.png"
+  cp -r "${REO_DIR}/images/Preview${color}.png" "${THEME_DIR}/${THEME_NAME}${color}/Preview.png"
+  sed -i "/\Name=/s/${THEME_NAME}/${THEME_NAME}${color}/" "${THEME_DIR}/${THEME_NAME}${color}/metadata.desktop"
+  sed -i "/\Theme-Id=/s/${THEME_NAME}/${THEME_NAME}${color}/" "${THEME_DIR}/${THEME_NAME}${color}/metadata.desktop"
+  sed -i "s/${THEME_NAME}/${THEME_NAME}${color}/g" "${THEME_DIR}/${THEME_NAME}${color}/Main.qml"
   # Success message
   prompt -s "\n * All done!"
 }
