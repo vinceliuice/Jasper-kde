@@ -2,7 +2,7 @@
 cursorTheme=Colloid-cursors
 
 [kdeglobals][General]
-ColorScheme=NephriteLight
+ColorScheme=JasperLight
 
 [kdeglobals][Icons]
 Theme=Colloid
@@ -20,7 +20,7 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Nephrite-light
+theme=__aurorae__svg__Jasper-light
 
 [plasmarc][Theme]
-name=Nephrite-light
+name=Jasper-light

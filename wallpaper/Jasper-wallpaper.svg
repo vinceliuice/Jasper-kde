@@ -7,8 +7,8 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="colloid-wallpaper.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Jasper-wallpaper.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +25,12 @@
      showgrid="false"
      units="px"
      inkscape:zoom="0.086930088"
-     inkscape:cx="3629.3533"
+     inkscape:cx="3623.6015"
      inkscape:cy="1242.3777"
      inkscape:window-width="1368"
-     inkscape:window-height="692"
+     inkscape:window-height="688"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="44"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
@@ -42,7 +42,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g261890">
+       id="Jasper-light">
       <rect
          style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
          id="rect261866"
@@ -99,7 +99,7 @@
          d="m 1003.9902,906.45898 c 49.4444,50.36044 113.0549,100.95232 184.125,116.84182 17.3629,3.8819 34.4655,6.0979 51.502,7.0801 -32.6972,-30.58205 -75.8523,-65.8788 -126.9863,-95.59965 -35.3062,-20.52113 -72.5038,-28.27279 -108.6407,-28.32227 z" />
     </g>
     <g
-       id="g492922"
+       id="Jasper-dark"
        transform="translate(0,1569.6311)">
       <rect
          style="opacity:1;fill:#1f1f1f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"

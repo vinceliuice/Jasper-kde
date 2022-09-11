@@ -131,8 +131,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=120,120,120
 
 [General]
-ColorScheme=NephriteDark
-Name=NephriteDark
+ColorScheme=JasperDark
+Name=JasperDark
 shadeSortColumn=true
 
 [KDE]

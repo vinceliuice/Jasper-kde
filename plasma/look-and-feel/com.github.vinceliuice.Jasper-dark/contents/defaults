@@ -2,7 +2,7 @@
 cursorTheme=Colloid-cursors
 
 [kdeglobals][General]
-ColorScheme=NephriteDark
+ColorScheme=JasperDark
 
 [kdeglobals][Icons]
 Theme=Colloid-dark
@@ -21,7 +21,7 @@ BorderSize=Tiny
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Nephrite-dark
+theme=__aurorae__svg__Jasper-dark
 
 [plasmarc][Theme]
-name=Nephrite-dark
+name=Jasper-dark

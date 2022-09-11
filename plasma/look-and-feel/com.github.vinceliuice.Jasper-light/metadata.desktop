@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Nephrite-light
-Comment=Nephrite light theme for kde plasma
+Name=Jasper-light
+Comment=Jasper light theme for kde plasma
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
 Type=Service
@@ -13,8 +13,8 @@ X-KDE-PluginInfo-Author=Vince Liuice
 X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
 X-KDE-PluginInfo-License=GPL3.0
 X-KDE-PluginInfo-Version=0.1
-X-KDE-PluginInfo-Name=com.github.vinceliuice.Nephrite-light
-X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Nephrite-kde
+X-KDE-PluginInfo-Name=com.github.vinceliuice.Jasper-light
+X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Jasper-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 

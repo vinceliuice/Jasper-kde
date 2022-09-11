@@ -9,7 +9,7 @@ LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
 KVANTUM_DIR="$HOME/.config/Kvantum"
 WALLPAPER_DIR="$HOME/.local/share/wallpapers"
 
-THEME_NAME=Nephrite
+THEME_NAME=Jasper
 LATTE_DIR="$HOME/.config/latte"
 COLOR_VARIANTS=('-light' '-dark')
 

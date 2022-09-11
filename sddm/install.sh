@@ -4,7 +4,7 @@ ROOT_UID=0
 THEME_DIR="/usr/share/sddm/themes"
 REO_DIR="$(cd $(dirname $0) && pwd)"
 
-THEME_NAME=Nephrite
+THEME_NAME=Jasper
 
 MAX_DELAY=20                                  # max delay for user to enter root password
 

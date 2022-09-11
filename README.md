@@ -1,7 +1,7 @@
 
-## Nephrite KDE Theme
+## Jasper KDE Theme
 
-Nephrite kde theme is a clean and concise theme for KDE Plasma desktop.
+Jasper kde theme is a clean and concise theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
@@ -22,7 +22,7 @@ In this repository you'll find:
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md#distributions).
 
-  Run `kvantummanager` to choose and apply **Nephrite** (or any other Monterey) theme.
+  Run `kvantummanager` to choose and apply **Jasper** (or any other Monterey) theme.
 
 - Install [Colloid icon theme](https://github.com/vinceliuice/Colloid-icon-theme) for a more consistent and beautiful experience.
 

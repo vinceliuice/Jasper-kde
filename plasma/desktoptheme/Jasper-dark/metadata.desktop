@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=Nephrite-light
-Comment=Nephrite-light theme for plasma
+Name=Jasper-dark
+Comment=Jasper-dark theme for plasma
 X-KDE-PluginInfo-Author=Vince Liuice
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=LGPL
-X-KDE-PluginInfo-Name=Nephrite-light
+X-KDE-PluginInfo-Name=Jasper-dark
 X-KDE-PluginInfo-Version=5.78.1
 X-KDE-PluginInfo-Website=https://plasma.kde.org
 X-Plasma-API=5.0
@@ -21,7 +21,7 @@ intensity=1.4
 saturation=10
 
 [Wallpaper]
-defaultWallpaperTheme=Nephrite-light
+defaultWallpaperTheme=Jasper-dark
 defaultFileSuffix=.png
 defaultHeight=2160
 defaultWidth=3840
